@@ -1,6 +1,6 @@
 int 1234
 dong thu 1 
-thu co y choi1
+thu co y c su as choi1
 ahihi sai
 san tao hon di
 mot hai
