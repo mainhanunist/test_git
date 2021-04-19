@@ -1,5 +1,5 @@
 int 1234
 dong thu 1 
 thu choi1
-ahihi do cho
+ahihi
 san tao hon di
